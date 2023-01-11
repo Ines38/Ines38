@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ines38
-- 👀 I’m interested in web and mobile development and machine learning
+- 👀 I’m interested in Web Development, Cloud Computing and Machine Learning
 - 🌱 I’m currently learning the basics
 - 📫 How to reach me https://www.linkedin.com/in/ines-bougheriw/ 
 
